@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+/.idea/.gitignore
+/.idea/claude-code-manual.iml
+/.idea/modules.xml
+/.idea/vcs.xml
